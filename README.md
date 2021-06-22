@@ -11,16 +11,21 @@ open the BiasChecker folder
 open one terminal
 ```console
 cd manager
-npm start
+
+npm install --dependencies ## install dependencies of this project
+
+npm start ## start the manager
 ```
 open another terminal
 ```console
 cd manager 
-node server.js
+node server.js   ## start the server
 ```
 open another terminal(the number of terminals is dependent on the experiment)
 ```console
 cd agent
-node index.js
+npm install --dependencies ## install dependencies of this project
+
+node index.js ## start agent
 ```
 
