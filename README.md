@@ -2,6 +2,9 @@
 
 ## Installation
 
+```console
+git clone https://github.com/yangcandoit/BiasChecker.git
+```
 git clone https://github.com/yangcandoit/BiasChecker.git
 
 open the BiasChecker folder
