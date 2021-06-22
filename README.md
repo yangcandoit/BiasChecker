@@ -2,7 +2,7 @@
 
 ## Installation
 
-git clone 
+git clone https://github.com/yangcandoit/BiasChecker.git
 
 open the BiasChecker folder
 
