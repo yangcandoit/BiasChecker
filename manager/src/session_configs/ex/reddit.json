@@ -1,0 +1,52 @@
+{
+    "session_id": "t_p10",
+    "max_results": 10,
+    "interval": 2000,
+    "date_intervals": [""],
+    "agents": {
+        "pro_agent": {
+            "id": "pro_agent",
+            "username": "Impressive_Fuel_8083",
+            "password": "******",
+            "platform": "reddit",
+            "clearCookie": 0,
+            "profiles": ["formula1", "https://www.reddit.com/r/MAFS_AU/comments/m6ucnz/married_at_first_sight_s08e16_live_episode/"],
+            "queries": [
+                "Republican Candidates","Acid Reflux","Aeropostale","Amana Refrigerator","American Eagle","Backyard Chickens","Bartaman","Caribbean","Pottery Barn",
+                "#LutePelaSuaAposentadoria","#LavaJato","#PergunteSobrePrevidencia","#EuApoioNovaPrevidencia","Articulacao","#OuReformaOuQuebra","Nova Previdencia",
+                "Prosul","ARGEPLAN","Lava-Jato","Marun","PMDB","Moreira Franco","Pezao","Bretas",
+                "Coronel Lima","Aecio",  "Eduardo Cunha","Freixo e Paulo Teixeira",
+                "Sarney","Temer",   "Pinochet","Dilma Rousseff", "#LulaLivreDomingoSDV",
+                "Michelzinho","Falta a Dilma", "Vampirao", "Ate a Damares" ]
+        },
+        "neutral_agent": {
+            "id": "neutral_agent",
+            "username": "Agreeable_Estate_166",
+            "password": "******",
+            "platform": "reddit",
+            "profiles": [],
+            "clearCookie": 0,
+            "queries": [
+                "Republican Candidates","Acid Reflux","Aeropostale","Amana Refrigerator","American Eagle","Backyard Chickens","Bartaman","Caribbean","Pottery Barn",
+                "#LutePelaSuaAposentadoria","#LavaJato","#PergunteSobrePrevidencia","#EuApoioNovaPrevidencia","Articulacao","#OuReformaOuQuebra","Nova Previdencia",
+                "Prosul","ARGEPLAN","Lava-Jato","Marun","PMDB","Moreira Franco","Pezao","Bretas",
+                "Coronel Lima","Aecio",  "Eduardo Cunha","Freixo e Paulo Teixeira",
+                "Sarney","Temer",   "Pinochet","Dilma Rousseff", "#LulaLivreDomingoSDV",
+                "Michelzinho","Falta a Dilma", "Vampirao", "Ate a Damares" ]
+        },
+        "anti_agent": {
+            "id": "anti_agent",
+            "username": "Only_Kaleidoscope362",
+            "password": "******",
+            "platform": "reddit",
+            "profiles": [],
+            "queries": [
+                "Republican Candidates","Acid Reflux","Aeropostale","Amana Refrigerator","American Eagle","Backyard Chickens","Bartaman","Caribbean","Pottery Barn",
+                "#LutePelaSuaAposentadoria","#LavaJato","#PergunteSobrePrevidencia","#EuApoioNovaPrevidencia","Articulacao","#OuReformaOuQuebra","Nova Previdencia",
+                "Prosul","ARGEPLAN","Lava-Jato","Marun","PMDB","Moreira Franco","Pezao","Bretas",
+                "Coronel Lima","Aecio",  "Eduardo Cunha","Freixo e Paulo Teixeira",
+                "Sarney","Temer",   "Pinochet","Dilma Rousseff", "#LulaLivreDomingoSDV",
+                "Michelzinho","Falta a Dilma", "Vampirao", "Ate a Damares" ]
+        }
+    }
+}

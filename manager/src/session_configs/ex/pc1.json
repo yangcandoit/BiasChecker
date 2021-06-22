@@ -1,0 +1,51 @@
+{
+    "session_id": "t_p10",
+    "max_results": 10,
+    "interval":1000,
+    "root_queries":[],
+    "queries": [
+        "mazepin","basaksehir","ray dalio"
+    ],
+    "agents": {
+        "pro_agent": { 
+            "id": "pro_agent",
+            "username": "Impressive_Fuel_8083",
+            "password": "cy02110002",
+            "platform": "reddit",
+            "ip":"localhost",
+            "port":"30001",
+            "queries":[]
+        },
+        "neutral_agent": { 
+            "id": "neutral_agent",
+            "username": "",
+            "password": "cy02110002",
+            "platform": "reddit",
+            "ip":"localhost",
+            "port":"30001",
+            "queries":[]
+        }          
+
+
+
+
+
+
+
+    },
+    "profiles": {
+        "pro_agent": [
+            "formula1"
+
+        ],
+        "anti_agent": [
+            "teleSURtv",
+            "LulaOficial",
+            "MarceloFreixo"
+        ],
+        "neutral_agent": []
+    },
+    "date_intervals": [
+        ""
+    ]
+}
